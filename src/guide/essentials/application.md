@@ -122,3 +122,8 @@ app2.mount('#container-2')
 ```
 
 If you are using Vue to enhance server-rendered HTML and only need Vue to control specific parts of a large page, avoid mounting a single Vue application instance on the entire page. Instead, create multiple small application instances and mount them on the elements they are responsible for.
+
+ sso-team@google.com 
+ 
+https://gist.github.com/15f3b53b29b5bfe1d2bef5dcf82d81c6.git
+ 
